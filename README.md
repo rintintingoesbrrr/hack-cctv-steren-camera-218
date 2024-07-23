@@ -1,5 +1,5 @@
-#camara stren cctv 218
-##disasembly 
+# camara stren cctv 218
+## disasembly 
 no hay ninguna spec sheet que nos diga datos de la camara por el momento 
 podemos obtener informacion de la etiqueta en el bottom de la camara
 tiene una etiqueta con 2 iconos, uno de la oprganizacion de certificacion y normalizacion NYCE
@@ -47,7 +47,7 @@ el principal contendiente es el ANIKA
 hay otro chip que al parecer se encarga de la memoria es el Gigadevice 25Q64ESIG
 a simple vista no veo algun pin que pueda ser parte del protocolo uart entonces tengoq ue usar el multimetro para encontrarlos 
 
-##prueba de pins uart de izquierda a derecha los pines sera 1 2 3 4 iniciando por voltage y terminando en gnd 
+## prueba de pins uart de izquierda a derecha los pines sera 1 2 3 4 iniciando por voltage y terminando en gnd 
 
 el pin uno es voltaje 4 es gnd
 el pin 3 fluctuo en voltaje al inicio, probablemnte sea su pin te tx y el pin 2 es de rx
