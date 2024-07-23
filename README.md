@@ -1,4 +1,4 @@
-# camara stren cctv 218
+# camara steren cctv 218 hack and firmware extraction
 ## disasembly 
 no hay ninguna spec sheet que nos diga datos de la camara por el momento 
 podemos obtener informacion de la etiqueta en el bottom de la camara
